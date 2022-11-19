@@ -59,7 +59,7 @@ export default function Navbar(props) {
                         />
                       ) : (
                         <span className="block text-center">
-                          Stablo
+                          PA Food Mag
                         </span>
                       )}
                     </a>
@@ -75,7 +75,7 @@ export default function Navbar(props) {
                         />
                       ) : (
                         <span className="block text-center">
-                          Stablo
+                          PA Food Mag
                         </span>
                       )}
                     </a>
