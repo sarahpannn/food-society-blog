@@ -152,6 +152,7 @@ yarn sanity
 # or
 cd studio && sanity start
 ```
+ok
 
 ## Sponsor
 
