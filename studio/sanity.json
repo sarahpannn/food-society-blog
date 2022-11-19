@@ -5,7 +5,7 @@
     "basePath": "/studio"
   },
   "api": {
-    "projectId": "",
+    "projectId": "psndf4re",
     "dataset": "production"
   },
   "plugins": [
