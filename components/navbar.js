@@ -26,6 +26,14 @@ export default function Navbar(props) {
     {
       label: "Archive",
       href: "/archive"
+    },
+    {
+      label: "Print",
+      href: "/print"
+    },
+    {
+      label: "Masthead",
+      href: "/masthead"
     }
   ];
 
