@@ -49,23 +49,22 @@ export default function Contact({ siteconfig }) {
           Contact
         </h1>
         <div className="text-center">
-          <p className="text-lg">We are a here to help.</p>
+          {/* <p className="text-lg">We are a here to help.</p> */}
         </div>
 
         <div className="grid my-10 md:grid-cols-2">
           <div className="my-10">
             <h2 className="text-2xl font-semibold dark:text-white">
-              Contact Stablo
+              Contact PA Food Society
             </h2>
             <p className="max-w-sm mt-5">
-              Have something to say? We are here to help. Fill up the
-              form or send email or call phone.
+              We're hungry your feedback. Wink wink.
             </p>
 
             <div className="mt-5">
               <div className="flex items-center mt-2 space-x-2 text-dark-600 dark:text-gray-400">
                 <LocationMarkerIcon className="w-4 h-4" />
-                <span>1734 Sanfransico, CA 93063</span>
+                <span>Andover MA 01810</span>
               </div>
               {siteconfig?.email && (
                 <div className="flex items-center mt-2 space-x-2 text-dark-600 dark:text-gray-400">
