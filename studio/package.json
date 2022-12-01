@@ -2,9 +2,9 @@
   "name": "stablo",
   "private": true,
   "version": "1.0.2",
-  "description": "Stablo is a JamStack Blog template built with Next.js, Tailwind CSS & Sanity CMS",
+  "description": "Phillips Academy Food Magazine is a high school food journalism publication.",
   "main": "package.json",
-  "author": "Surjith S M <surjithctly@gmail.com>",
+  "author": "PA FOOD SOCIETY <pafoodsoc@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
