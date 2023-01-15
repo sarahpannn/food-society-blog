@@ -15,11 +15,11 @@ export default function Navbar(props) {
     {
       label: "About",
       href: "/about"
+    },
+    {
+      label: "Contact",
+      href: "/contact"
     }
-    // {
-    //   label: "Contact",
-    //   href: "/contact"
-    // }
   ];
 
   const rightmenu = [
@@ -30,11 +30,11 @@ export default function Navbar(props) {
     {
       label: "Print",
       href: "/print"
-    },
-    {
-      label: "Masthead",
-      href: "/masthead"
     }
+    // {
+    //   label: "Masthead",
+    //   href: "/masthead"
+    // }
   ];
 
   const mobilemenu = [...leftmenu, ...rightmenu];
