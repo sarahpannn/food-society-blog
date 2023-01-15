@@ -49,7 +49,7 @@ export default function Contact({ siteconfig }) {
           Contact
         </h1>
         <div className="text-center">
-          {/* <p className="text-lg">We are a here to help.</p> */}
+          {/* <p className="text-lg"> We're hungry your feedback. Wink wink. </p> */}
         </div>
 
         <div className="grid my-10 md:grid-cols-2">
@@ -58,7 +58,7 @@ export default function Contact({ siteconfig }) {
               Contact PA Food Society
             </h2>
             <p className="max-w-sm mt-5">
-              We're hungry your feedback. Wink wink.
+              {/* We're hungry your feedback. Wink wink. */}
             </p>
 
             <div className="mt-5">
