@@ -30,11 +30,11 @@ export default function Navbar(props) {
     {
       label: "Print",
       href: "/print"
+    },
+    {
+      label: "Masthead",
+      href: "/masthead"
     }
-    // {
-    //   label: "Masthead",
-    //   href: "/masthead"
-    // }
   ];
 
   const mobilemenu = [...leftmenu, ...rightmenu];
